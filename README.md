@@ -2,7 +2,7 @@
 
 Fast Sparse Tropical Matrix Factorization (FastSTMF)
 
-FastSTMF is a novel approach for matrix completion based on sparse tropical matrix factorization (STMF). Please refer for the model's details to Omanović, A., Oblak, P. & Curk, T. FastSTMF: Efficient tropical matrix factorization algorithm for sparse data. Preprint at https://arxiv.org/ (2022).
+FastSTMF is a novel approach for matrix completion based on sparse tropical matrix factorization (STMF). Please refer for the model's details to Omanović, A., Oblak, P. & Curk, T. FastSTMF: Efficient tropical matrix factorization algorithm for sparse data. Preprint at https://arxiv.org/abs/2205.06619 (2022).
 
 ### Real data
 We used the real TCGA data in our experiments from the [paper by Rappoport N. and Shamir R.](https://academic.oup.com/nar/article/46/20/10546/5123392), and the data can be downloaded from the [link](http://acgt.cs.tau.ac.il/multi_omic_benchmark/download.html). Additional preprocessing before running our experiments is provided in our paper. PAM50 data can be found on the [link](https://github.com/CSB-IG/pa3bc/tree/master/bioclassifier\_R). BRCA subtypes are collected from [CBIO portal](https://www.cbioportal.org/).
